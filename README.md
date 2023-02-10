@@ -6,3 +6,4 @@ main (2) - Input, valores booleanos, condicionais (if), else, else if, unless<br
 main (3) - Operadores lógicos (&& e || e !), case statements, repetições (loops), range (faixa)<br>
 main (4) - Vetores, operações com vetores (adicionar e remover), range (faixa)<br>
 main (5) - Manipulação de vetores (soma, subtração, multiplicação), operações booleanas, mover elementos, métodos de vetores <br>
+main (6) - Hashes, símbolos, métodos para manipular hashes, matrizes, iteradores, frequência de letras <br>
