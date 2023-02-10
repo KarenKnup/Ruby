@@ -4,3 +4,5 @@ main - Ruby, print, puts, comentários, variáveis, constante<br>
 main (1) - Cálculos, formas encurtadas de operadores, inversão de variáveis, strings, intercalação em string, concatenação, repetição de string<br>
 main (2) - Input, valores booleanos, condicionais (if), else, else if, unless<br>
 main (3) - Operadores lógicos (&& e || e !), case statements, repetições (loops), range (faixa)<br>
+main (4) - Vetores, operações com vetores (adicionar e remover), range (faixa)<br>
+main (5) - Manipulação de vetores (soma, subtração, multiplicação), operações booleanas, mover elementos, métodos de vetores <br>
