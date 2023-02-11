@@ -113,3 +113,9 @@ s.each_char do |x|
   c += 1 if x == "e"
 end
 puts c #5
+
+#Quantas vezes o output roda?
+arr = [5, 6, 8, 3]
+arr.reverse!
+arr[1].times {puts "in a loop"} #8
+
