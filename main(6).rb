@@ -82,3 +82,34 @@ end
 	puts "hi"
 end
 
+
+#Frequência de Letras - número de ocorrências de uma letra numa string
+text = "I am learning Ruby and it is fun!"
+
+text.downcase! #The downcase! method is used to convert all letters in the string to lowercase.
+
+freqs = {}
+freqs.default = 0 #The default method is used to set the default value for the hash, meaning that any key that does not have a value assigned will be set to that value.
+
+text.each_char { |char| freqs[char] += 1} # "each_char" calculate the number of occurrences in the hash
+
+#To show a nice result output in an alphabetical order, we can create a range of all letters and print their corresponding frequencies:
+("a".."z").each {|x| puts "#{x} : #{freqs[x]}" }
+
+#Final code:
+text = "I am learning Ruby and it is fun!"
+text.downcase!
+freqs = {}
+freqs.default = 0
+
+text.each_char { |char| freqs[char] += 1}
+
+("a".."z").each {|x| puts "#{x} : #{freqs[x]}" }
+
+#Exercício:
+s = "some text goes here"
+c = 0
+s.each_char do |x| 
+  c += 1 if x == "e"
+end
+puts c #5
