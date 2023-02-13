@@ -11,3 +11,4 @@ main (7) - Métodos (funções), parâmetros, parâmetros padrões (default para
 main (8) - Retorno, retorno de múltiplos valores, encadeando métodos, métodos como argumentos, variáveis de escopo, recursão <br>
 main (9) - Programação orientada a objetos, objetos, new, initialize, classes, instâncias, variáveis de instância <br>
 main (10) - Métodos de instância, accessors (getter e setter), métodos de accessors (attr_accessor, attr_reader, attr_writer, self) <br>
+main (11) - Métodos de classes, variáveis de classes, constantes de classe, método "to_s" <br>
