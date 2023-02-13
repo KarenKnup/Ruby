@@ -82,3 +82,10 @@ puts p #outputs "David is 28 years old."
 #Defining the to_s method makes it easier and shorter to output the information of an object in the format needed, as opposed to defining a custom method and calling it from an object.
 
 #When you define the to_s method you call puts on your object (puts obj), where with a custom method you have to explicitly call it from the object (puts obj.info).
+
+#include the object "x" in the output
+class X
+end
+
+x=X.new
+puts "Object data: #{x}"
