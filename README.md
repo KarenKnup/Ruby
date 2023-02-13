@@ -10,3 +10,4 @@ main (6) - Hashes, símbolos, métodos para manipular hashes, matrizes, iterador
 main (7) - Métodos (funções), parâmetros, parâmetros padrões (default parameters), parâmetros opcionais <br>
 main (8) - Retorno, retorno de múltiplos valores, encadeando métodos, métodos como argumentos, variáveis de escopo, recursão <br>
 main (9) - Programação orientada a objetos, objetos, new, initialize, classes, instâncias, variáveis de instância <br>
+main (10) - Métodos de instância, accessors (getter e setter), métodos de accessors (attr_accessor, attr_reader, attr_writer, self) <br>
