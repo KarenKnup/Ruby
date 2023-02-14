@@ -12,4 +12,4 @@ main (8) - Retorno, retorno de múltiplos valores, encadeando métodos, métodos
 main (9) - Programação orientada a objetos, objetos, new, initialize, classes, instâncias, variáveis de instância <br>
 main (10) - Métodos de instância, accessors (getter e setter), métodos de accessors (attr_accessor, attr_reader, attr_writer, self) <br>
 main (11) - Métodos de classes, variáveis de classes, constantes de classe, método "to_s" <br>
-main (12) - Herança, método super, operador overloading, modificadores de acesso, um jogo simples <br>
+main (12) - Herança, método super, operador overloading, modificadores de acesso, um jogo simples, método rand <br>
