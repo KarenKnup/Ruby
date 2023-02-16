@@ -13,5 +13,5 @@ main (9) - Programação orientada a objetos, objetos, new, initialize, classes,
 main (10) - Métodos de instância, accessors (getter e setter), métodos de accessors (attr_accessor, attr_reader, attr_writer, self) <br>
 main (11) - Métodos de classes, variáveis de classes, constantes de classe, método "to_s" <br>
 main (12) - Herança, método super, operador overloading, modificadores de acesso, um jogo simples, método rand <br>
-main (13) - Módulos, mixins, comparable mixin, namespacing, structs, OStruct (Open Struct), operações matemáticas, tempo, procs, lambdas<br>
+main (13) - Módulos, mixins, comparable mixin, namespacing, structs, OStruct (Open Struct), operações matemáticas, tempo, procs, lambdas (anonymous function)<br>
 main (14) - 
