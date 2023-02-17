@@ -14,4 +14,4 @@ main (10) - Métodos de instância, accessors (getter e setter), métodos de acc
 main (11) - Métodos de classes, variáveis de classes, constantes de classe, método "to_s" <br>
 main (12) - Herança, método super, operador overloading, modificadores de acesso, um jogo simples, método rand <br>
 main (13) - Módulos, mixins, comparable mixin, namespacing, structs, OStruct (Open Struct), operações matemáticas, tempo, procs, lambdas (anonymous function)<br>
-main (14) - 
+main (14) - Criando e abrindo arquivos, file modes (tipos de arquivos), lendo e escrevendo em arquivos, deletar arquivos, método file?, obtendo informações de arquivos
