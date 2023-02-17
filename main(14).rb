@@ -109,5 +109,9 @@ puts File.readable?("test.txt")
 puts File.writable?("test.txt")
 puts File.executable?("test.txt")
 
+#Example:
+if File.readable?("demo.txt")
+	puts File.read("demo.txt")
+end
 
 
