@@ -114,4 +114,8 @@ if File.readable?("demo.txt")
 	puts File.read("demo.txt")
 end
 
-
+#Pegar o conteúdo de "sample.txt" e colocar em "dest.txt"
+txt = File.read("sample.txt")
+File.open("dest.txt","a") do |file|
+file.puts txt
+end
